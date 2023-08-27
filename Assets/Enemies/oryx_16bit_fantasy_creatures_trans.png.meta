@@ -1,0 +1,7020 @@
+fileFormatVersion: 2
+guid: 383b5a82dc7446344b5fe6f1c300fc42
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 23
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 600
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc629eba26738a24c847dce7939bd578
+      internalID: 341636766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 600
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd84a46d38a13ef41a9e87624644d78b
+      internalID: 707391699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 600
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d05c1528ec3c2429a245b18bbc7018
+      internalID: -1800559146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_3
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 600
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f81b3a0076a2ea4abc65e7f996cf9ad
+      internalID: 1225591414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_4
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 600
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17eededb68e9ecb4cbcc790de88b414c
+      internalID: -72467607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 600
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e2c63444197ef428653c45691e135d
+      internalID: -650473003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 600
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5601d4eddb52bc4aa47080ab4a75bdd
+      internalID: 1394027104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_7
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 600
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bb1867e2c7f4a4ca296c3d78d639ea
+      internalID: 1716710242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_8
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 600
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41554486d0af4b4c93fd36b762bda42
+      internalID: -391669025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_9
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 600
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad37432b79b13b42b893d20882041e8
+      internalID: 378481290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_10
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 600
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e705b6fae0d9743942fe3ba17b0108
+      internalID: -1353944274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_11
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 600
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3218a0a287d9e444ab8b2d7ccf24fb2
+      internalID: 713818773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_12
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 600
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b6097fc11a2584797ca9f46c60d7a8
+      internalID: 1013346693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 600
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75cf10f52b33c034e8cb60b5e8af36c5
+      internalID: -469836799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_14
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 600
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30781af3ea27038429a0db8ffe7e35f6
+      internalID: -1536152492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_15
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 600
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ed0a94bff36854db5fad696fffa9f0
+      internalID: 607658784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_16
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 576
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210a715d697d9044da5c558b5eb20985
+      internalID: 1227762184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_17
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 576
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f8c0fa18a26c44c99e0dbce92cb45c
+      internalID: 153980520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_18
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 576
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5587408101e46134dafb0f2f08821812
+      internalID: -2027427104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_19
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 576
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d806d6533cf9c6479ea929a1b50601e
+      internalID: -1979916489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_20
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 576
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0826e1e4f64168d46a0eac78794c50df
+      internalID: -1133108906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_21
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 504
+        width: 23
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c74dc25a7bc1f14982f775a41fa910e
+      internalID: -108980970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_22
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 576
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db3dab9da4a5a84e975f4c407b62ccd
+      internalID: -2032750273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_23
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 576
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f93c77966c07048b7c3a17ac1d01ae
+      internalID: 1717450600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_24
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 576
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffea47e612aa75448ada4e96f4171b19
+      internalID: 1123983829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_25
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 576
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb1f6856d37ba347b0cc78a39d5702b
+      internalID: -385224161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_26
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 480
+        width: 23
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132ea857976e2cb488d441e32edf3e0d
+      internalID: 1506860782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_27
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 480
+        width: 23
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fa03f611b123f4f909e707ca1ae9f7
+      internalID: 1516254617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_28
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 576
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7228e2d16300efb4095583185baea167
+      internalID: 412379280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_29
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c05039aafba9842b3f90bfd989d8fc
+      internalID: -791971316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_30
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 576
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0f9b23b20872a4f87c6b53c86a14bb
+      internalID: -1838391360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_31
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 576
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26ddf492b6e0004bae30a78632c96dd
+      internalID: 1099352911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_32
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 552
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68708305d34409a438cea5925567c461
+      internalID: -456979951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_33
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 552
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2249e12d89f090c41a5793f88481c7e1
+      internalID: -1200737385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_34
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 552
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcf32c736f78c64f8292b44edd8e676
+      internalID: -463467700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_35
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 552
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3de1f66dabe8c4bba4f4d8c1315661
+      internalID: 5039719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_36
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 564
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e571366f5223f9344b54c19c90d9b2bf
+      internalID: -950578786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_37
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 552
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71308148517e6c54b810bbdd60286337
+      internalID: 7264719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_38
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 552
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ec73e4dfa0f844f8ecd1247289716c
+      internalID: 287200269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_39
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 552
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36352b8272ea70d4da2650258de7da86
+      internalID: 910563441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_40
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 552
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871a7727b4e98f549bfa69b8f0de0b85
+      internalID: -1756857671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_41
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 552
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6289799a857e4a49a6976cb8935657d
+      internalID: -1736646380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_42
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 552
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce3b05176e8a4744bd0062343fa6b1d
+      internalID: 658138107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_43
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 552
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d1a3bacfe99f7458334f3e73c45199
+      internalID: 784425669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_44
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 480
+        width: 23
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68b9ee8da7b1a848921d0c65a6290e5
+      internalID: -731957121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_45
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 480
+        width: 22
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b7325a7325c9945962767e9af658b0
+      internalID: -1608271651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_46
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 480
+        width: 22
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d4ce64085b9234085fae9fae583eec
+      internalID: -868014077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_47
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 480
+        width: 23
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12115aeb0b595543918cf620ca87c4d
+      internalID: 843901679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_48
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 528
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479c0e8ea6a7ec748ab31ff5c4e032c3
+      internalID: -1405403062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_49
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 528
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740758b392fa41f4287f011d3ff05843
+      internalID: -1766937957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_50
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 528
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4522af912e1a67e4fa98486df01d387d
+      internalID: 2110313282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_51
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 528
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ebcbc48de70754aa8d414274f3aae7
+      internalID: 1265298511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_52
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 528
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0284f4026f7f4e743a4ba566f092f9a4
+      internalID: -1308655018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_53
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 528
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de1fb13dc6ae8e46aed29104a59054e
+      internalID: -357543537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_54
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 528
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9171c95c5b10bad46b0a4f65a2636e06
+      internalID: -1852001180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_55
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 528
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b792eb3527e099a48bbfbe70d435cf2b
+      internalID: 84047312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_56
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 528
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d3c4d2cafe1e246a5e545fac2cf91b
+      internalID: 617329245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_57
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 528
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3165bd730a424847962058755d72166
+      internalID: 231627092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_58
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 528
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438c986db1ca3bf48b35d29583178228
+      internalID: -1194493001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_59
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 504
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c724d18f8ea71429b29a1b85a43e1d
+      internalID: -416569964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_60
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 504
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad1ea82db12b7743a2d8eaec1263522
+      internalID: -151624747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_61
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 504
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3bf7354d381aa54fbacb3e2f0078ca3
+      internalID: -1692122493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_62
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 504
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ef7614e67a28a4e86c32a410b6f5fe
+      internalID: 826909133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_63
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 516
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68bf257eeb51b540bb4322c5076ca15
+      internalID: -315879539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_64
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 504
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f506d77d900a74e815236325e53146
+      internalID: 818578433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_65
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 504
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d0e7d443709434cb876084e37966e1
+      internalID: -460140655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_66
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 504
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f145d97a82fb3c14193fdee3c6e17dc2
+      internalID: -522131334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_67
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 504
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b5e5aa73beaba419999c97a69171c3
+      internalID: -1291940678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_68
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 504
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce69cfc88db08634d9cef52f67be2db9
+      internalID: 1909193539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_69
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 504
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3ca449b7c2e01489ab5201b8ef0f3a
+      internalID: 761737340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_70
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 504
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412755fdf683ab04ea75292b5c6608c7
+      internalID: 1392775944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_71
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 480
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1020f98d4ff78e440844309770a1e1d8
+      internalID: -1678781850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_72
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 480
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ac8a03ed2da044a866c254f22b2812
+      internalID: 613497076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_73
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 480
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbacdd848bdbca4f9e358b453a6a818
+      internalID: -799791461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_74
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 480
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e362b2412b5f074aa0341ac94e2d5b7
+      internalID: 1843334335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_75
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 480
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f07b962000671409ae5bff335c07d2
+      internalID: 1581581058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_76
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 480
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb7ff72f8da0db4fa142b2e91a70cb2
+      internalID: -1011939434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_77
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 456
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4542e4bc21cdd418909d70f52b37a6
+      internalID: -1345392730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_78
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 480
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d8763771822c9408e18892bf56a7b5
+      internalID: 123061500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_79
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 480
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128968aaf1c0b8e49b3c460461d62983
+      internalID: 258667265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_80
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 480
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5cce20fb9a74d42ad8e2a5e23856e6
+      internalID: -519722852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_81
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 480
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfe5e9e34494a942a8d56035c43005c
+      internalID: 788668987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_82
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 480
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c928d09f582cb469a6cb15f670ffe1
+      internalID: 1769874933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_83
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 456
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6f9e744128d4146b95687a9e3a8fe1
+      internalID: 1574563376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_84
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 456
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e60ace3959c43448606aeb88a371f5
+      internalID: 1819625834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_85
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 456
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19395f50a1fd2604289cb30a555cbcac
+      internalID: 1849766544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_86
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 456
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bc2fc1d8efdc544b0493d0371930cd
+      internalID: 1268192752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_87
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 456
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e03b58598d6186428dd3472c4b20d26
+      internalID: -24288348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_88
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 456
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481717292ab7de8449ab8d6caa30dd05
+      internalID: -1877788760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_89
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 456
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be47e81922803243a1508eb2b75b6a4
+      internalID: -1792254884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_90
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 456
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e438844ff6709439bb7a50e7182321
+      internalID: 372258696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_91
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 456
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d67d261904ffd40bfc1532fa8c525f
+      internalID: 1582731126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_92
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 456
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37a679b11913bc4089310d769bdbed0
+      internalID: -1522991736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_93
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 456
+        width: 47
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9846b8038650547997ed20d3718055
+      internalID: -673492564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_94
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 456
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a802190f2999847804cac77c0149d9
+      internalID: -2027549438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_95
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 456
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880d2c50a63b51f4cb4f78a5d4318e15
+      internalID: -1675413597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_96
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 456
+        width: 47
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3f1917ddf5aeb47bb87c7a7d1d60af
+      internalID: -109792243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_97
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 456
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68dc50d4546b7c4b9ec442597958f98
+      internalID: 667422633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_98
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 432
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251a4c8607fed1e45b10937a8fa4f66e
+      internalID: 401234307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_99
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 432
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f21baa42103804cb3f1aeb569ea640
+      internalID: 1652223760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_100
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 432
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9da3074187fa7f4c87fef800806176c
+      internalID: -1540485183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_101
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 432
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc71479ca8dac9f4397a770de0d52c9e
+      internalID: 2060772618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_102
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 432
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46d4e53333c77c45b01f97cf81f2331
+      internalID: -1696474454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_103
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 432
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aba3077abf72b04fb18f02a31abcc2a
+      internalID: -826089665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_104
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 432
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2cd30098685da944bb28bfa82eb2766
+      internalID: 1324392216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 432
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8f40f6aa7222548bcfc9a406df2cad
+      internalID: 526270695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_106
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 360
+        width: 24
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a6496b4717c8b478c0695c8e443208
+      internalID: 2050206764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_107
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 432
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9dc6eac084d1784b990783df5e29a5b
+      internalID: -1567107698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_108
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 360
+        width: 24
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3bb3a5dd81de1448382b4a99963562
+      internalID: 1406764615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_109
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 360
+        width: 48
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f5b53c62eadb844ae381c0b00998e0
+      internalID: 793990750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_110
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 432
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a78d14ac861b7b47a295a04f6312ece
+      internalID: 1231662009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_111
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 432
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6a254cad7d8a14289e2fa475551385
+      internalID: 688212526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_112
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 360
+        width: 48
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b8fc281f8652a48b628eebf0c81836
+      internalID: -744888804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_113
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 432
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ea40b294aaac144854788a8d419c3a
+      internalID: -163815058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_114
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 408
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed83a9e532c28c44a5b5c8f52a83494
+      internalID: 60536926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_115
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 408
+        width: 47
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a008505b3ccdc1e40b4f3c3322a66d71
+      internalID: 1215041275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_116
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 408
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955d954aff096874790797b9822cd5b6
+      internalID: 468693321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_117
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 408
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abb2c31c8302744a93ca6ac41d43f1e
+      internalID: -1312565793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_118
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 408
+        width: 47
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc11ea69786b76745a50fdbd994abb0c
+      internalID: 2018546628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_119
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 408
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edebaf1b11a6a55448b9f5cd6105f134
+      internalID: 789895477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_120
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 408
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbb8fbcc16503f47b9282bb3e618c42
+      internalID: -1432075060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_121
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 408
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cddb56b12ae39e4a8ade8896eb7fe51
+      internalID: -1459127977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_122
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 408
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe9374208f3a444a8034a60671c689c
+      internalID: -1079523460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_123
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 408
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237d2f0d63e0bcc409e0c847992b3629
+      internalID: 1838742773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_124
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 336
+        width: 24
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545e181367c79f441b7c52210e16f018
+      internalID: -1800774382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_125
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548ed3b704123504389736777d210de3
+      internalID: 610717985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_126
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 336
+        width: 47
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510609d18f9d832458ddf74225beb9fb
+      internalID: -747715262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_127
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 360
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100e2f2c905bda049af1fa8fcdd2f4c7
+      internalID: 237814309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_128
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 360
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46e673845e1b254bb8de98e7106c714
+      internalID: -290252409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_129
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 360
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc83960d70914dc4cbe5658c2dbc9831
+      internalID: -721285355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_130
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 360
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c90163b2adf068479409bcb6a0e4de8
+      internalID: 1990440805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_131
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 360
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175a9895bb3131349bc21622a18b3f66
+      internalID: 1559851665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_132
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 384
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e576d9d8c418bc444bdb840467a5b527
+      internalID: -176198072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_133
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 361
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6cef0f45cec7e41ad54c0c14043615
+      internalID: 510857431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_134
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 336
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c912020bc1f12a4b9d6af4dbd7688bb
+      internalID: -427878752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_135
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 336
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0b9b70c2a46e6479308f9bd15a3f17
+      internalID: -1771486471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_136
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8db7d410b75caf438f1347a4bf403aa
+      internalID: 30247431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_137
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 336
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22828bc8f8b0f4b45a2de4f95fd14923
+      internalID: 342586737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_138
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 336
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfeb2250ad967fd4a894631461327530
+      internalID: -55548782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_139
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 336
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a05cff2fd6763c43a03dbe5d6713cef
+      internalID: 1735235837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_140
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 336
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10766b6803210cd4b8e1a6fc93a6d9ec
+      internalID: -1527748269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_141
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 312
+        width: 144
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf17914086f5169418299dad6059e17e
+      internalID: -1713293212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_142
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 336
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1af20b3efc8dbf4eb1ab223f616186f
+      internalID: 722128078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_143
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 336
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d29630a05e51047959c32ed3335001
+      internalID: 665451220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_144
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 312
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705589d0ea6f38a409bbe05771e0ff73
+      internalID: -1770138630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_145
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 312
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88d48a14e039804c8ad1f0c9abc1f02
+      internalID: 1909569582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_146
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 316
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e75023b11b1c74393341271b04969f
+      internalID: 2059159115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_147
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 314
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8f84817fee4e149ba6b888c893500c
+      internalID: -425452961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_148
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 312
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bd7d5568222fa4e9585a371c0eb3a2
+      internalID: 1684508859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_149
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 312
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf243e55468e564dab8d9a7c4b93f0c
+      internalID: 778100256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_150
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 312
+        width: 48
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13c3d30dfc6f864993b33b6df49215c
+      internalID: -1340941644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_151
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 312
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25b40f447995a742a70e21f2d9db141
+      internalID: 1789689133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_152
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 312
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8e2e24d9f647149a97ab1c23acd60e
+      internalID: -1749822103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_153
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 312
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2841c9816fc47d14d989a465f27e5124
+      internalID: 1392410562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_154
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 288
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b4b1709d955464bb9588ab5f61c2ba
+      internalID: -1967721214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_155
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 288
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2a7435222cf8d4082ef22c1db340aa
+      internalID: 2007105676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_156
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 292
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8357765352c7f944cb158d75e6055ea7
+      internalID: 473305423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_157
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 291
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dcfa6bdd129e904e83c83c120601686
+      internalID: 1367435048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_158
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 288
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445ea01651c7fa343941a784a0da0239
+      internalID: -1865210644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_159
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 288
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e261fd4cb4700c74b9127fee6cb2c622
+      internalID: 1885165884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_160
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deef9a98e4ccb1e47946bd7aa4e01447
+      internalID: 380241366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_161
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 24
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a324468bcd1fed4482a95995fbe7f09
+      internalID: -1063338803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_162
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 288
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc25641046a1374a8edd1418940e2e2
+      internalID: -1747406353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_163
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 288
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c189d0c878712a144b7a2c2b755f4aa2
+      internalID: 1323051976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_164
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 288
+        width: 72
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d883b8c9480ff414884bc61eff383b09
+      internalID: 1616744498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_165
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 290
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4373777d86b987946b7ae0698728a645
+      internalID: -271168614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_166
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 290
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4775b45e0954e0e4f8e59c970dbc7a94
+      internalID: 636717631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_167
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 290
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ec021dcc27f4144a69f4d00e3688f3
+      internalID: -1304650757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_168
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 264
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da08246c189ed2246b2551706b295a0e
+      internalID: -1431395152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_169
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 264
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed653704e9f47d428ea8c253fa05bc9
+      internalID: 777700480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_170
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 264
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2674b4d071a354eb5fa70d40b62e7f
+      internalID: 190345979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_171
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c8568966893bb478d266236fd6deaf
+      internalID: 1149189639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_172
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 264
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7e0cb69b4b0fb4b86ba1b6d46cfbad
+      internalID: -805168323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_173
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 264
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3198cd43f7eba419a03bdde16f4d3b
+      internalID: 212396467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_174
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 264
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555785f00a708004985a8b32de4c19f7
+      internalID: 1990236873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_175
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 264
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962acf0e7c8a8ad4a8d84c9a7a3e367f
+      internalID: -1594311353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_176
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 264
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76406fb8e24e38743bdf06e6cd5e791a
+      internalID: -2092360730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_177
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 264
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4b601a5809a8c40b75cef426f7c336
+      internalID: 572874914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_178
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 264
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e4a78a90cdc934d945cfceedcf77ba
+      internalID: 504690948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_179
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 264
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b2d4bd0a0029a41863c916ad891f4b
+      internalID: -565189023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_180
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 264
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf4da287b2849d4b87a944389ce9db8
+      internalID: -1754154751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_181
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 264
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e70b05a59814494fbe48a9f845c5039
+      internalID: -1218527207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_182
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 264
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5ffcca0316a2c4b824a1003b6c7390
+      internalID: -1114468491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_183
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 240
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563dc141014c1904dac6e164d7634651
+      internalID: 1885432301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_184
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9200118870eef4086ed7ab8f85e261
+      internalID: 1782763970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_185
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 240
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d197df412b27c44e9f57f15ba7da84b
+      internalID: 402634177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_186
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 240
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239396b151f0208419a56f4879f5edd7
+      internalID: -1909945459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_187
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 240
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21fe561928ecc744f83feb1f7fb4446d
+      internalID: 1432036716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_188
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 240
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca8d469db4fe46419106920b35842fc
+      internalID: -24050285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_189
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 240
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4640c61ddd80762468a0eb5cc0ab3205
+      internalID: 607452443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_190
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 168
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e077652841c431c4ea6af4848ef145f2
+      internalID: 1359650156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_191
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 168
+        width: 23
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7a3462686d67f44a03f352bf049b64
+      internalID: 428842601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_192
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 216
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e81543c88f05342b3e85e445af9f57
+      internalID: -675261560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_193
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 216
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28291513318d09846baf2f2378180785
+      internalID: -1319922976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_194
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 216
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad683b9a0331be242ab9746aa3de87d2
+      internalID: -1236838398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_195
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 216
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14fbb9a61425fc4c962d637d60f5012
+      internalID: 1846828372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_196
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 216
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc680d510af01d4aa3eca2575e5ee27
+      internalID: -507891889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_197
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 216
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fef8f0961a4b974fb88ef905c9061f2
+      internalID: 1690598287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_198
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 216
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1950014adbdb24047bdb1cb9cbe05a27
+      internalID: -1384279721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_199
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 216
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f93ac96f246d9542a409ec8f360f666
+      internalID: -1226120564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_200
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 217
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7ff05e9db070b448c9b5c4640aacec
+      internalID: -490178647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_201
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 218
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d0b5ec4261d8b4f985ef4a301ae326
+      internalID: 1192095477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_202
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 216
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd6ec06668410c42b3d23dbef5afb1d
+      internalID: -1866602792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_203
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 216
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86408a9d3c596354498398582152a0e9
+      internalID: -2140132915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_204
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 216
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96db4b787450104e87b0f260f4daeb9
+      internalID: 1858220658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_205
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 216
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c884f5d4871e134ab2ac50b89c3646d
+      internalID: 1362792896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_206
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 120
+        width: 96
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e8fc98680b5a34dae7a2947649319e
+      internalID: 45065311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_207
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 168
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a262cd9fc463a40bf7d64112129724
+      internalID: -686353497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_208
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 193
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f6b450ae1b10e479c64798f57eca4c
+      internalID: 220855564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_209
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 195
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14cf1c15c985214a96c5ee4a06d4aaf
+      internalID: 2089933460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_210
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 192
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c6f24e4ccadab45bf72075a63691ef
+      internalID: 1368294347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_211
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 144
+        width: 23
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09070c83dd06f2847946f34a11c8e916
+      internalID: -2138789577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_212
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 144
+        width: 23
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a06c0c5f63ab74429d6f35ca572761e
+      internalID: 1290621907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_213
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 144
+        width: 95
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f04e88a8476b4948b07c3bf2679ac53
+      internalID: -1105029800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_214
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 168
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818ea36bd605c914e89518028523391b
+      internalID: 238953995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_215
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 192
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab17d5fb1de90e488c733c420e7ed33
+      internalID: -2049333678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_216
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 192
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655def4d56640104ead035fecb7754af
+      internalID: -310655583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_217
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 168
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f930f098265eee341865945c1537f488
+      internalID: -562262179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_218
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ad42077c550e54db2751be6a54e7ff
+      internalID: -1488076883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_219
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 168
+        width: 47
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ead56142806834895cde696649087a
+      internalID: -5656228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_220
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 144
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1002a58fd125a54b806455e2805f384
+      internalID: -387748083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_221
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 144
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dec71683162074418a80357a38c63da
+      internalID: -1008196308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_222
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 144
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e39a360b56b2d4b9aec3ba3e0a936c
+      internalID: -1839754502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_223
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 144
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ec5953eec4ee147867f47bb666395c
+      internalID: 322610525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_224
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 144
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146b253648c938744ba9cdfaf0fc2881
+      internalID: -1022542334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_225
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 146
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cd57d3b243a8742b88b48313a0f771
+      internalID: 142241569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_226
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 120
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8a863a7e7df8c4187264b12a11ed4a
+      internalID: -185961304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_227
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 120
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa3386e0f0b1714485a7e4c0e02f1f2
+      internalID: -1247704475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_228
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 120
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f1781bb228b5f48b5e68cc4671b874
+      internalID: -2011358690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_229
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 120
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0951ed230030a1e4a8c386a45842bb3a
+      internalID: -1497254569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_230
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 125
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f85cf7bfcf040b46a3d048b53b41b5c
+      internalID: -1491028566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_231
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 124
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c999a40fe0d60c648b0856ae2046a3fc
+      internalID: 546496984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_232
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 120
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254d00a1052b0564485da1a08c36e262
+      internalID: -317513994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_233
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 120
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6922f595274d4594baa3711dcbfa4ff7
+      internalID: 1067551831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_234
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 120
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0648cdbf6b0c02e41b4b9e860402ea4e
+      internalID: -966731805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_235
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 120
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce48f8f40b4795b4c83362a9c4ea2946
+      internalID: -735755428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_236
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 120
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c56860bbda80940922c6a3e0a48d5e
+      internalID: 583009396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_237
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 120
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda7e5a5795278b4e8c6b36fb6a9021b
+      internalID: -1818713895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_238
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 120
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651e6f41cc2176f4a80a075bba177fbc
+      internalID: 499197131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_239
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 120
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b530d39b5627c643bcfaef18f388750
+      internalID: -1989520712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_240
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 97
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700689bd7594bd24bb413dc2449c76f1
+      internalID: -1120866369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_241
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 97
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d07cef02cfdd90489fc77f9673b640e
+      internalID: -35444312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_242
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 96
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab08093a5857e84478a222975f70dcee
+      internalID: -549221143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_243
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 96
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd5fb02af7259647ba181d96827a93e
+      internalID: -1710965448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_244
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 96
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9b04e092ef87049aa854e27c8c23b3
+      internalID: -396683633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_245
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 96
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ab70b2b725dcf4d9e95d8556355cb9
+      internalID: 1111740106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_246
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 96
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d1cddf1a1f4fc43902e2272d3dc57e
+      internalID: -1168577988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_247
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 96
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11826d6f1a353864c9948890e6e6c2ef
+      internalID: 1938362494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_248
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 100
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b563eff2e4ea344e80e557b42629708
+      internalID: -109010979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_249
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 99
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16d6b3fbe592f24582621f28330a271
+      internalID: -1552540456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_250
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 96
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c59cb35659f6a84e81309b776aef83b
+      internalID: 1087976879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_251
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 96
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1f27288faa39640a0ebc9275f588bb
+      internalID: 1096897598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_252
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 96
+        width: 95
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c44641d59626ca43b3ca422ffea3e8b
+      internalID: 1570556421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_253
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 96
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4eaeb84df12ff46bdfa57104258730
+      internalID: 642868664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_254
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 96
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79feea8c8484ca4fa47e81f150f46ed
+      internalID: 2147119881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_255
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 74
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a1e9b07feb97441b9b69af992d55ba
+      internalID: -707239443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_256
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 74
+        width: 18
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ede217c4bf59804c86c4425b5a07469
+      internalID: -2041823077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_257
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 74
+        width: 22
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ba3ad7b48ecf84ea40d6dfc4c01bf1
+      internalID: -2071472276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_258
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 72
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2946662864049a04b91fc423a90ebcb4
+      internalID: -432359071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_259
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 72
+        width: 18
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d4278405f015d48a0799809fd6aec2
+      internalID: -924829711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_260
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 72
+        width: 22
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b7a338f2a3a4a4c920c90785e81b64
+      internalID: -1822357670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_261
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f692d920c4f01784587e961e3d0b1a49
+      internalID: -2143964483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_262
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 35
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4884c66a06749c243b8bcb099436b565
+      internalID: 1876201666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_263
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 35
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9118c964e36ec4baa61557f42e9870
+      internalID: 1735922934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_264
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 35
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd14d9cab9f0c9d4a9693cd1453c25da
+      internalID: 2015655134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_265
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 35
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5fa0b220af09a4bbe879cad892347d
+      internalID: 1479216932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_266
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 19
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579912f6cb371da44b4e24bed24aa784
+      internalID: 1883851284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_267
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 23
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c092a58cd60eddf4fb40305a99a64fbf
+      internalID: -994447997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_268
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 24
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb870568deb665b48a3e6414af6b3a02
+      internalID: -217992212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_269
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 24
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae1f4934921bc34d9ae9ad73909fabf
+      internalID: 1884389231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_270
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 24
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48000c28576a3ae43a03dbe9afbf8364
+      internalID: -583306772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_271
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 24
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e5cbf9a717101438ba03f16eee42d1
+      internalID: -1720294787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_272
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 24
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5167528f1f02fea4e9d11cb09403873f
+      internalID: -404910545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_273
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 24
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfd0f6da0aeee745b13501363e25d51
+      internalID: 377644650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_274
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 24
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30dbb6c15567b5d45b875907e679c25e
+      internalID: -1068530147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_275
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 24
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc535898083df64094c644f5c36942b
+      internalID: 181289934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_276
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 24
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19525885344700945bdb868c70149654
+      internalID: 1162491280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_277
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 24
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c820983ba4ffbab44a0079405dca4cdc
+      internalID: -1876353945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_278
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 24
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b63135628c32da49b6f6a6b1033c553
+      internalID: -1115929277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_279
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 24
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9818cc1250dab4f9cfd912b28bb253
+      internalID: -1252970757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_280
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 24
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a2dec40901ef84e9fd94b88daf05c5
+      internalID: -1899153297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_281
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 24
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6552605849e2a0647b195d1bff5c15c7
+      internalID: 502754830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_282
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 24
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cbb0e8746fc7349be01765a513f478
+      internalID: 1171747043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_283
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 24
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff22a0c94ca8fc9498ed2dca37523b8d
+      internalID: -1936850135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_284
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 24
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5812f047ba3f1ae4b9c87a15abf77767
+      internalID: -887947745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_285
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 24
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a91420f3496b84cb76bee3b30eabe2
+      internalID: -305393406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_286
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 24
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e368e5417c1dd242b545de474079450
+      internalID: 1205653121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_287
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 24
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66fcb880d293f2498b93828d5fc6753
+      internalID: -770718586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_288
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 24
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266bc702fc28b6748a45ec4cf98ff4f2
+      internalID: -45729062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_289
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 24
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab83e9db25eab9140a3f2c9d517339a2
+      internalID: -1949402347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_290
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 24
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b5e41cc07681d4c9abec34e586f894
+      internalID: 186082545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_291
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 24
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a5f9329d0396d4ba383c5957f55019
+      internalID: 1575870332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_292
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 24
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c8021c0002bb842b69e7b2a84bec65
+      internalID: -1315083744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_293
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 24
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d45ddaefa7cfcc408d4c14d381d644b
+      internalID: 118400666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_294
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 24
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef9a8dd5347a5843b45b3958431e74c
+      internalID: -113050999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_295
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 24
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d2205915e9dd34a9da25843015afc9
+      internalID: 143829404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_296
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 24
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed113a473fd0f54889335fada92d6eb
+      internalID: 1319790505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_297
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 24
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b705fae85b6fa40b5cc06791d03b62
+      internalID: -211568154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_298
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 24
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c97388828f0b34d845dd67dd21d3f5
+      internalID: -202276607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_299
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 24
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a087ac9f9bafcac48833bff654ca9dbc
+      internalID: -1846520242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_300
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 24
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7453a0b456f8b2419ecb81ff1f9eb57
+      internalID: -45843412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_301
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 24
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5250ae61d83b044c955aaa4dcf72a01
+      internalID: 1291958665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_302
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 24
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c3da7b5322cab45b0a40c8b5a505dc
+      internalID: 1169190320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_303
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 24
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17f89f0f0e655545b379e0ec9ea16af
+      internalID: 233057116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_304
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 24
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e87949d5317d244c9fa30d8ad4c2d84
+      internalID: -40402994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_305
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 24
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a808462f681a64faf2f5c4e1da967e
+      internalID: -1748080732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_306
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 24
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c540529413eecaf479a60a5dfdc5cd59
+      internalID: -1521733943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_307
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 24
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8782cc30b4f9142914b5481db59dae
+      internalID: 1394087451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_308
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 24
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7ec05b7260f2740ab9a41abbda1d81
+      internalID: -1491111924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_309
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 24
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6684f4fa3033b464bac4b06e149beba8
+      internalID: -479399749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_310
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 24
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5d3d4cdece6294080348a80834f5e5
+      internalID: -1849918578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_311
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 24
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ad21c32f793af4ba62004a49c56069
+      internalID: -1562200804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_16bit_fantasy_creatures_trans_312
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 24
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d39364a5515a94095fd5b3bba34110
+      internalID: -1012228527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      oryx_16bit_fantasy_creatures_trans_53: -357543537
+      oryx_16bit_fantasy_creatures_trans_94: -2027549438
+      oryx_16bit_fantasy_creatures_trans_135: -1771486471
+      oryx_16bit_fantasy_creatures_trans_51: 1265298511
+      oryx_16bit_fantasy_creatures_trans_215: -2049333678
+      oryx_16bit_fantasy_creatures_trans_118: 2018546628
+      oryx_16bit_fantasy_creatures_trans_258: -432359071
+      oryx_16bit_fantasy_creatures_trans_230: -1491028566
+      oryx_16bit_fantasy_creatures_trans_139: 1735235837
+      oryx_16bit_fantasy_creatures_trans_193: -1319922976
+      oryx_16bit_fantasy_creatures_trans_154: -1967721214
+      oryx_16bit_fantasy_creatures_trans_7: 1716710242
+      oryx_16bit_fantasy_creatures_trans_67: -1291940678
+      oryx_16bit_fantasy_creatures_trans_302: 1169190320
+      oryx_16bit_fantasy_creatures_trans_11: 713818773
+      oryx_16bit_fantasy_creatures_trans_280: -1899153297
+      oryx_16bit_fantasy_creatures_trans_48: -1405403062
+      oryx_16bit_fantasy_creatures_trans_205: 1362792896
+      oryx_16bit_fantasy_creatures_trans_278: -1115929277
+      oryx_16bit_fantasy_creatures_trans_71: -1678781850
+      oryx_16bit_fantasy_creatures_trans_170: 190345979
+      oryx_16bit_fantasy_creatures_trans_261: -2143964483
+      oryx_16bit_fantasy_creatures_trans_90: 372258696
+      oryx_16bit_fantasy_creatures_trans_194: -1236838398
+      oryx_16bit_fantasy_creatures_trans_8: -391669025
+      oryx_16bit_fantasy_creatures_trans_238: 499197131
+      oryx_16bit_fantasy_creatures_trans_60: -151624747
+      oryx_16bit_fantasy_creatures_trans_138: -55548782
+      oryx_16bit_fantasy_creatures_trans_75: 1581581058
+      oryx_16bit_fantasy_creatures_trans_283: -1936850135
+      oryx_16bit_fantasy_creatures_trans_86: 1268192752
+      oryx_16bit_fantasy_creatures_trans_20: -1133108906
+      oryx_16bit_fantasy_creatures_trans_3: 1225591414
+      oryx_16bit_fantasy_creatures_trans_83: 1574563376
+      oryx_16bit_fantasy_creatures_trans_19: -1979916489
+      oryx_16bit_fantasy_creatures_trans_32: -456979951
+      oryx_16bit_fantasy_creatures_trans_266: 1883851284
+      oryx_16bit_fantasy_creatures_trans_61: -1692122493
+      oryx_16bit_fantasy_creatures_trans_308: -1491111924
+      oryx_16bit_fantasy_creatures_trans_276: 1162491280
+      oryx_16bit_fantasy_creatures_trans_149: 778100256
+      oryx_16bit_fantasy_creatures_trans_254: 2147119881
+      oryx_16bit_fantasy_creatures_trans_293: 118400666
+      oryx_16bit_fantasy_creatures_trans_288: -45729062
+      oryx_16bit_fantasy_creatures_trans_24: 1123983829
+      oryx_16bit_fantasy_creatures_trans_228: -2011358690
+      oryx_16bit_fantasy_creatures_trans_281: 502754830
+      oryx_16bit_fantasy_creatures_trans_57: 231627092
+      oryx_16bit_fantasy_creatures_trans_271: -1720294787
+      oryx_16bit_fantasy_creatures_trans_163: 1323051976
+      oryx_16bit_fantasy_creatures_trans_231: 546496984
+      oryx_16bit_fantasy_creatures_trans_279: -1252970757
+      oryx_16bit_fantasy_creatures_trans_100: -1540485183
+      oryx_16bit_fantasy_creatures_trans_52: -1308655018
+      oryx_16bit_fantasy_creatures_trans_15: 607658784
+      oryx_16bit_fantasy_creatures_trans_14: -1536152492
+      oryx_16bit_fantasy_creatures_trans_38: 287200269
+      oryx_16bit_fantasy_creatures_trans_79: 258667265
+      oryx_16bit_fantasy_creatures_trans_290: 186082545
+      oryx_16bit_fantasy_creatures_trans_168: -1431395152
+      oryx_16bit_fantasy_creatures_trans_199: -1226120564
+      oryx_16bit_fantasy_creatures_trans_153: 1392410562
+      oryx_16bit_fantasy_creatures_trans_46: -868014077
+      oryx_16bit_fantasy_creatures_trans_269: 1884389231
+      oryx_16bit_fantasy_creatures_trans_209: 2089933460
+      oryx_16bit_fantasy_creatures_trans_35: 5039719
+      oryx_16bit_fantasy_creatures_trans_93: -673492564
+      oryx_16bit_fantasy_creatures_trans_98: 401234307
+      oryx_16bit_fantasy_creatures_trans_179: -565189023
+      oryx_16bit_fantasy_creatures_trans_189: 607452443
+      oryx_16bit_fantasy_creatures_trans_129: -721285355
+      oryx_16bit_fantasy_creatures_trans_23: 1717450600
+      oryx_16bit_fantasy_creatures_trans_235: -735755428
+      oryx_16bit_fantasy_creatures_trans_142: 722128078
+      oryx_16bit_fantasy_creatures_trans_298: -202276607
+      oryx_16bit_fantasy_creatures_trans_127: 237814309
+      oryx_16bit_fantasy_creatures_trans_101: 2060772618
+      oryx_16bit_fantasy_creatures_trans_310: -1849918578
+      oryx_16bit_fantasy_creatures_trans_171: 1149189639
+      oryx_16bit_fantasy_creatures_trans_286: 1205653121
+      oryx_16bit_fantasy_creatures_trans_73: -799791461
+      oryx_16bit_fantasy_creatures_trans_21: -108980970
+      oryx_16bit_fantasy_creatures_trans_70: 1392775944
+      oryx_16bit_fantasy_creatures_trans_82: 1769874933
+      oryx_16bit_fantasy_creatures_trans_167: -1304650757
+      oryx_16bit_fantasy_creatures_trans_122: -1079523460
+      oryx_16bit_fantasy_creatures_trans_0: 341636766
+      oryx_16bit_fantasy_creatures_trans_105: 526270695
+      oryx_16bit_fantasy_creatures_trans_150: -1340941644
+      oryx_16bit_fantasy_creatures_trans_140: -1527748269
+      oryx_16bit_fantasy_creatures_trans_22: -2032750273
+      oryx_16bit_fantasy_creatures_trans_13: -469836799
+      oryx_16bit_fantasy_creatures_trans_203: -2140132915
+      oryx_16bit_fantasy_creatures_trans_96: -109792243
+      oryx_16bit_fantasy_creatures_trans_282: 1171747043
+      oryx_16bit_fantasy_creatures_trans_214: 238953995
+      oryx_16bit_fantasy_creatures_trans_225: 142241569
+      oryx_16bit_fantasy_creatures_trans_187: 1432036716
+      oryx_16bit_fantasy_creatures_trans_295: 143829404
+      oryx_16bit_fantasy_creatures_trans_4: -72467607
+      oryx_16bit_fantasy_creatures_trans_307: 1394087451
+      oryx_16bit_fantasy_creatures_trans_297: -211568154
+      oryx_16bit_fantasy_creatures_trans_132: -176198072
+      oryx_16bit_fantasy_creatures_trans_49: -1766937957
+      oryx_16bit_fantasy_creatures_trans_275: 181289934
+      oryx_16bit_fantasy_creatures_trans_250: 1087976879
+      oryx_16bit_fantasy_creatures_trans_89: -1792254884
+      oryx_16bit_fantasy_creatures_trans_146: 2059159115
+      oryx_16bit_fantasy_creatures_trans_25: -385224161
+      oryx_16bit_fantasy_creatures_trans_155: 2007105676
+      oryx_16bit_fantasy_creatures_trans_87: -24288348
+      oryx_16bit_fantasy_creatures_trans_45: -1608271651
+      oryx_16bit_fantasy_creatures_trans_240: -1120866369
+      oryx_16bit_fantasy_creatures_trans_148: 1684508859
+      oryx_16bit_fantasy_creatures_trans_301: 1291958665
+      oryx_16bit_fantasy_creatures_trans_262: 1876201666
+      oryx_16bit_fantasy_creatures_trans_274: -1068530147
+      oryx_16bit_fantasy_creatures_trans_174: 1990236873
+      oryx_16bit_fantasy_creatures_trans_133: 510857431
+      oryx_16bit_fantasy_creatures_trans_18: -2027427104
+      oryx_16bit_fantasy_creatures_trans_84: 1819625834
+      oryx_16bit_fantasy_creatures_trans_196: -507891889
+      oryx_16bit_fantasy_creatures_trans_112: -744888804
+      oryx_16bit_fantasy_creatures_trans_201: 1192095477
+      oryx_16bit_fantasy_creatures_trans_40: -1756857671
+      oryx_16bit_fantasy_creatures_trans_272: -404910545
+      oryx_16bit_fantasy_creatures_trans_27: 1516254617
+      oryx_16bit_fantasy_creatures_trans_143: 665451220
+      oryx_16bit_fantasy_creatures_trans_123: 1838742773
+      oryx_16bit_fantasy_creatures_trans_56: 617329245
+      oryx_16bit_fantasy_creatures_trans_219: -5656228
+      oryx_16bit_fantasy_creatures_trans_80: -519722852
+      oryx_16bit_fantasy_creatures_trans_76: -1011939434
+      oryx_16bit_fantasy_creatures_trans_165: -271168614
+      oryx_16bit_fantasy_creatures_trans_202: -1866602792
+      oryx_16bit_fantasy_creatures_trans_166: 636717631
+      oryx_16bit_fantasy_creatures_trans_221: -1008196308
+      oryx_16bit_fantasy_creatures_trans_58: -1194493001
+      oryx_16bit_fantasy_creatures_trans_234: -966731805
+      oryx_16bit_fantasy_creatures_trans_312: -1012228527
+      oryx_16bit_fantasy_creatures_trans_113: -163815058
+      oryx_16bit_fantasy_creatures_trans_164: 1616744498
+      oryx_16bit_fantasy_creatures_trans_200: -490178647
+      oryx_16bit_fantasy_creatures_trans_69: 761737340
+      oryx_16bit_fantasy_creatures_trans_161: -1063338803
+      oryx_16bit_fantasy_creatures_trans_183: 1885432301
+      oryx_16bit_fantasy_creatures_trans_59: -416569964
+      oryx_16bit_fantasy_creatures_trans_1: 707391699
+      oryx_16bit_fantasy_creatures_trans_55: 84047312
+      oryx_16bit_fantasy_creatures_trans_78: 123061500
+      oryx_16bit_fantasy_creatures_trans_104: 1324392216
+      oryx_16bit_fantasy_creatures_trans_66: -522131334
+      oryx_16bit_fantasy_creatures_trans_29: -791971316
+      oryx_16bit_fantasy_creatures_trans_172: -805168323
+      oryx_16bit_fantasy_creatures_trans_9: 378481290
+      oryx_16bit_fantasy_creatures_trans_33: -1200737385
+      oryx_16bit_fantasy_creatures_trans_239: -1989520712
+      oryx_16bit_fantasy_creatures_trans_54: -1852001180
+      oryx_16bit_fantasy_creatures_trans_16: 1227762184
+      oryx_16bit_fantasy_creatures_trans_303: 233057116
+      oryx_16bit_fantasy_creatures_trans_181: -1218527207
+      oryx_16bit_fantasy_creatures_trans_245: 1111740106
+      oryx_16bit_fantasy_creatures_trans_145: 1909569582
+      oryx_16bit_fantasy_creatures_trans_151: 1789689133
+      oryx_16bit_fantasy_creatures_trans_81: 788668987
+      oryx_16bit_fantasy_creatures_trans_125: 610717985
+      oryx_16bit_fantasy_creatures_trans_213: -1105029800
+      oryx_16bit_fantasy_creatures_trans_43: 784425669
+      oryx_16bit_fantasy_creatures_trans_260: -1822357670
+      oryx_16bit_fantasy_creatures_trans_185: 402634177
+      oryx_16bit_fantasy_creatures_trans_198: -1384279721
+      oryx_16bit_fantasy_creatures_trans_263: 1735922934
+      oryx_16bit_fantasy_creatures_trans_294: -113050999
+      oryx_16bit_fantasy_creatures_trans_197: 1690598287
+      oryx_16bit_fantasy_creatures_trans_251: 1096897598
+      oryx_16bit_fantasy_creatures_trans_309: -479399749
+      oryx_16bit_fantasy_creatures_trans_68: 1909193539
+      oryx_16bit_fantasy_creatures_trans_206: 45065311
+      oryx_16bit_fantasy_creatures_trans_47: 843901679
+      oryx_16bit_fantasy_creatures_trans_136: 30247431
+      oryx_16bit_fantasy_creatures_trans_173: 212396467
+      oryx_16bit_fantasy_creatures_trans_191: 428842601
+      oryx_16bit_fantasy_creatures_trans_180: -1754154751
+      oryx_16bit_fantasy_creatures_trans_233: 1067551831
+      oryx_16bit_fantasy_creatures_trans_95: -1675413597
+      oryx_16bit_fantasy_creatures_trans_34: -463467700
+      oryx_16bit_fantasy_creatures_trans_5: -650473003
+      oryx_16bit_fantasy_creatures_trans_109: 793990750
+      oryx_16bit_fantasy_creatures_trans_99: 1652223760
+      oryx_16bit_fantasy_creatures_trans_247: 1938362494
+      oryx_16bit_fantasy_creatures_trans_10: -1353944274
+      oryx_16bit_fantasy_creatures_trans_128: -290252409
+      oryx_16bit_fantasy_creatures_trans_72: 613497076
+      oryx_16bit_fantasy_creatures_trans_106: 2050206764
+      oryx_16bit_fantasy_creatures_trans_311: -1562200804
+      oryx_16bit_fantasy_creatures_trans_31: 1099352911
+      oryx_16bit_fantasy_creatures_trans_117: -1312565793
+      oryx_16bit_fantasy_creatures_trans_102: -1696474454
+      oryx_16bit_fantasy_creatures_trans_277: -1876353945
+      oryx_16bit_fantasy_creatures_trans_264: 2015655134
+      oryx_16bit_fantasy_creatures_trans_289: -1949402347
+      oryx_16bit_fantasy_creatures_trans_108: 1406764615
+      oryx_16bit_fantasy_creatures_trans_186: -1909945459
+      oryx_16bit_fantasy_creatures_trans_141: -1713293212
+      oryx_16bit_fantasy_creatures_trans_220: -387748083
+      oryx_16bit_fantasy_creatures_trans_65: -460140655
+      oryx_16bit_fantasy_creatures_trans_17: 153980520
+      oryx_16bit_fantasy_creatures_trans_160: 380241366
+      oryx_16bit_fantasy_creatures_trans_188: -24050285
+      oryx_16bit_fantasy_creatures_trans_218: -1488076883
+      oryx_16bit_fantasy_creatures_trans_116: 468693321
+      oryx_16bit_fantasy_creatures_trans_212: 1290621907
+      oryx_16bit_fantasy_creatures_trans_156: 473305423
+      oryx_16bit_fantasy_creatures_trans_162: -1747406353
+      oryx_16bit_fantasy_creatures_trans_217: -562262179
+      oryx_16bit_fantasy_creatures_trans_204: 1858220658
+      oryx_16bit_fantasy_creatures_trans_111: 688212526
+      oryx_16bit_fantasy_creatures_trans_227: -1247704475
+      oryx_16bit_fantasy_creatures_trans_292: -1315083744
+      oryx_16bit_fantasy_creatures_trans_74: 1843334335
+      oryx_16bit_fantasy_creatures_trans_92: -1522991736
+      oryx_16bit_fantasy_creatures_trans_121: -1459127977
+      oryx_16bit_fantasy_creatures_trans_222: -1839754502
+      oryx_16bit_fantasy_creatures_trans_182: -1114468491
+      oryx_16bit_fantasy_creatures_trans_216: -310655583
+      oryx_16bit_fantasy_creatures_trans_210: 1368294347
+      oryx_16bit_fantasy_creatures_trans_252: 1570556421
+      oryx_16bit_fantasy_creatures_trans_249: -1552540456
+      oryx_16bit_fantasy_creatures_trans_114: 60536926
+      oryx_16bit_fantasy_creatures_trans_232: -317513994
+      oryx_16bit_fantasy_creatures_trans_110: 1231662009
+      oryx_16bit_fantasy_creatures_trans_265: 1479216932
+      oryx_16bit_fantasy_creatures_trans_177: 572874914
+      oryx_16bit_fantasy_creatures_trans_304: -40402994
+      oryx_16bit_fantasy_creatures_trans_63: -315879539
+      oryx_16bit_fantasy_creatures_trans_120: -1432075060
+      oryx_16bit_fantasy_creatures_trans_97: 667422633
+      oryx_16bit_fantasy_creatures_trans_147: -425452961
+      oryx_16bit_fantasy_creatures_trans_169: 777700480
+      oryx_16bit_fantasy_creatures_trans_103: -826089665
+      oryx_16bit_fantasy_creatures_trans_44: -731957121
+      oryx_16bit_fantasy_creatures_trans_107: -1567107698
+      oryx_16bit_fantasy_creatures_trans_26: 1506860782
+      oryx_16bit_fantasy_creatures_trans_137: 342586737
+      oryx_16bit_fantasy_creatures_trans_296: 1319790505
+      oryx_16bit_fantasy_creatures_trans_208: 220855564
+      oryx_16bit_fantasy_creatures_trans_285: -305393406
+      oryx_16bit_fantasy_creatures_trans_50: 2110313282
+      oryx_16bit_fantasy_creatures_trans_236: 583009396
+      oryx_16bit_fantasy_creatures_trans_270: -583306772
+      oryx_16bit_fantasy_creatures_trans_241: -35444312
+      oryx_16bit_fantasy_creatures_trans_229: -1497254569
+      oryx_16bit_fantasy_creatures_trans_37: 7264719
+      oryx_16bit_fantasy_creatures_trans_267: -994447997
+      oryx_16bit_fantasy_creatures_trans_224: -1022542334
+      oryx_16bit_fantasy_creatures_trans_85: 1849766544
+      oryx_16bit_fantasy_creatures_trans_207: -686353497
+      oryx_16bit_fantasy_creatures_trans_175: -1594311353
+      oryx_16bit_fantasy_creatures_trans_243: -1710965448
+      oryx_16bit_fantasy_creatures_trans_246: -1168577988
+      oryx_16bit_fantasy_creatures_trans_306: -1521733943
+      oryx_16bit_fantasy_creatures_trans_244: -396683633
+      oryx_16bit_fantasy_creatures_trans_291: 1575870332
+      oryx_16bit_fantasy_creatures_trans_42: 658138107
+      oryx_16bit_fantasy_creatures_trans_91: 1582731126
+      oryx_16bit_fantasy_creatures_trans_176: -2092360730
+      oryx_16bit_fantasy_creatures_trans_41: -1736646380
+      oryx_16bit_fantasy_creatures_trans_64: 818578433
+      oryx_16bit_fantasy_creatures_trans_157: 1367435048
+      oryx_16bit_fantasy_creatures_trans_255: -707239443
+      oryx_16bit_fantasy_creatures_trans_159: 1885165884
+      oryx_16bit_fantasy_creatures_trans_259: -924829711
+      oryx_16bit_fantasy_creatures_trans_223: 322610525
+      oryx_16bit_fantasy_creatures_trans_39: 910563441
+      oryx_16bit_fantasy_creatures_trans_284: -887947745
+      oryx_16bit_fantasy_creatures_trans_6: 1394027104
+      oryx_16bit_fantasy_creatures_trans_30: -1838391360
+      oryx_16bit_fantasy_creatures_trans_248: -109010979
+      oryx_16bit_fantasy_creatures_trans_12: 1013346693
+      oryx_16bit_fantasy_creatures_trans_305: -1748080732
+      oryx_16bit_fantasy_creatures_trans_115: 1215041275
+      oryx_16bit_fantasy_creatures_trans_253: 642868664
+      oryx_16bit_fantasy_creatures_trans_124: -1800774382
+      oryx_16bit_fantasy_creatures_trans_28: 412379280
+      oryx_16bit_fantasy_creatures_trans_130: 1990440805
+      oryx_16bit_fantasy_creatures_trans_184: 1782763970
+      oryx_16bit_fantasy_creatures_trans_237: -1818713895
+      oryx_16bit_fantasy_creatures_trans_190: 1359650156
+      oryx_16bit_fantasy_creatures_trans_273: 377644650
+      oryx_16bit_fantasy_creatures_trans_36: -950578786
+      oryx_16bit_fantasy_creatures_trans_126: -747715262
+      oryx_16bit_fantasy_creatures_trans_257: -2071472276
+      oryx_16bit_fantasy_creatures_trans_134: -427878752
+      oryx_16bit_fantasy_creatures_trans_268: -217992212
+      oryx_16bit_fantasy_creatures_trans_242: -549221143
+      oryx_16bit_fantasy_creatures_trans_158: -1865210644
+      oryx_16bit_fantasy_creatures_trans_299: -1846520242
+      oryx_16bit_fantasy_creatures_trans_226: -185961304
+      oryx_16bit_fantasy_creatures_trans_119: 789895477
+      oryx_16bit_fantasy_creatures_trans_144: -1770138630
+      oryx_16bit_fantasy_creatures_trans_62: 826909133
+      oryx_16bit_fantasy_creatures_trans_211: -2138789577
+      oryx_16bit_fantasy_creatures_trans_2: -1800559146
+      oryx_16bit_fantasy_creatures_trans_77: -1345392730
+      oryx_16bit_fantasy_creatures_trans_88: -1877788760
+      oryx_16bit_fantasy_creatures_trans_131: 1559851665
+      oryx_16bit_fantasy_creatures_trans_152: -1749822103
+      oryx_16bit_fantasy_creatures_trans_256: -2041823077
+      oryx_16bit_fantasy_creatures_trans_287: -770718586
+      oryx_16bit_fantasy_creatures_trans_195: 1846828372
+      oryx_16bit_fantasy_creatures_trans_178: 504690948
+      oryx_16bit_fantasy_creatures_trans_192: -675261560
+      oryx_16bit_fantasy_creatures_trans_300: -45843412
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
