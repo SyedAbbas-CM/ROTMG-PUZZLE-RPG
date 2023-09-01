@@ -17,12 +17,17 @@ public class GenericEnemyMovement : MonoBehaviour
     private void Start()
 
     {
-        randomMove = Random.Range(1, 4);
-        if(randomMove == 0)
+        
+    }
+
+    private void FixedUpdate()
+    {
+        randomMove = Random.Range(0, 5);
+        if (randomMove == 0)
         {
             enemyRB.velocity = Vector2.right * Speed;
         }
-        else if(randomMove == 1)
+        else if (randomMove == 1)
         {
             enemyRB.velocity = Vector2.left * Speed;
 
